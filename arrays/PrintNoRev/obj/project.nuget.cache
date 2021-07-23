@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qwte7J+HqSDxZ1KMoK7yteeA8AS2KAZL74KJm2F5n5hAhwsHE+5ss3I6WChtwVvGpw9Qr4B495epQynLOaJGWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\d77co\\source\\repos\\arrays\\PrintNoRev\\PrintNoRev.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\d77co\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

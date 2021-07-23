@@ -1,0 +1,13 @@
+C:\Users\d77co\source\repos\charityCampane\charityCampane\bin\Debug\netcoreapp3.1\charityCampane.exe
+C:\Users\d77co\source\repos\charityCampane\charityCampane\bin\Debug\netcoreapp3.1\charityCampane.deps.json
+C:\Users\d77co\source\repos\charityCampane\charityCampane\bin\Debug\netcoreapp3.1\charityCampane.runtimeconfig.json
+C:\Users\d77co\source\repos\charityCampane\charityCampane\bin\Debug\netcoreapp3.1\charityCampane.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\charityCampane\charityCampane\bin\Debug\netcoreapp3.1\charityCampane.dll
+C:\Users\d77co\source\repos\charityCampane\charityCampane\bin\Debug\netcoreapp3.1\charityCampane.pdb
+C:\Users\d77co\source\repos\charityCampane\charityCampane\obj\Debug\netcoreapp3.1\charityCampane.csprojAssemblyReference.cache
+C:\Users\d77co\source\repos\charityCampane\charityCampane\obj\Debug\netcoreapp3.1\charityCampane.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\charityCampane\charityCampane\obj\Debug\netcoreapp3.1\charityCampane.AssemblyInfo.cs
+C:\Users\d77co\source\repos\charityCampane\charityCampane\obj\Debug\netcoreapp3.1\charityCampane.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\charityCampane\charityCampane\obj\Debug\netcoreapp3.1\charityCampane.dll
+C:\Users\d77co\source\repos\charityCampane\charityCampane\obj\Debug\netcoreapp3.1\charityCampane.pdb
+C:\Users\d77co\source\repos\charityCampane\charityCampane\obj\Debug\netcoreapp3.1\charityCampane.genruntimeconfig.cache

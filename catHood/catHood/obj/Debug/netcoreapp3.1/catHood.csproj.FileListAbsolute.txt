@@ -1,0 +1,13 @@
+C:\Users\d77co\source\repos\catHood\catHood\bin\Debug\netcoreapp3.1\catHood.exe
+C:\Users\d77co\source\repos\catHood\catHood\bin\Debug\netcoreapp3.1\catHood.deps.json
+C:\Users\d77co\source\repos\catHood\catHood\bin\Debug\netcoreapp3.1\catHood.runtimeconfig.json
+C:\Users\d77co\source\repos\catHood\catHood\bin\Debug\netcoreapp3.1\catHood.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\catHood\catHood\bin\Debug\netcoreapp3.1\catHood.dll
+C:\Users\d77co\source\repos\catHood\catHood\bin\Debug\netcoreapp3.1\catHood.pdb
+C:\Users\d77co\source\repos\catHood\catHood\obj\Debug\netcoreapp3.1\catHood.csprojAssemblyReference.cache
+C:\Users\d77co\source\repos\catHood\catHood\obj\Debug\netcoreapp3.1\catHood.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\catHood\catHood\obj\Debug\netcoreapp3.1\catHood.AssemblyInfo.cs
+C:\Users\d77co\source\repos\catHood\catHood\obj\Debug\netcoreapp3.1\catHood.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\catHood\catHood\obj\Debug\netcoreapp3.1\catHood.dll
+C:\Users\d77co\source\repos\catHood\catHood\obj\Debug\netcoreapp3.1\catHood.pdb
+C:\Users\d77co\source\repos\catHood\catHood\obj\Debug\netcoreapp3.1\catHood.genruntimeconfig.cache

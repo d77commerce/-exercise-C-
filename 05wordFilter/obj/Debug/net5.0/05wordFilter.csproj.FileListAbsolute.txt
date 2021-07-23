@@ -1,0 +1,16 @@
+C:\Users\d77co\OneDrive\Документи\GitHub\-exercise-C-\05wordFilter\bin\Debug\net5.0\05wordFilter.exe
+C:\Users\d77co\OneDrive\Документи\GitHub\-exercise-C-\05wordFilter\bin\Debug\net5.0\05wordFilter.deps.json
+C:\Users\d77co\OneDrive\Документи\GitHub\-exercise-C-\05wordFilter\bin\Debug\net5.0\05wordFilter.runtimeconfig.json
+C:\Users\d77co\OneDrive\Документи\GitHub\-exercise-C-\05wordFilter\bin\Debug\net5.0\05wordFilter.runtimeconfig.dev.json
+C:\Users\d77co\OneDrive\Документи\GitHub\-exercise-C-\05wordFilter\bin\Debug\net5.0\05wordFilter.dll
+C:\Users\d77co\OneDrive\Документи\GitHub\-exercise-C-\05wordFilter\bin\Debug\net5.0\ref\05wordFilter.dll
+C:\Users\d77co\OneDrive\Документи\GitHub\-exercise-C-\05wordFilter\bin\Debug\net5.0\05wordFilter.pdb
+C:\Users\d77co\OneDrive\Документи\GitHub\-exercise-C-\05wordFilter\obj\Debug\net5.0\05wordFilter.csproj.AssemblyReference.cache
+C:\Users\d77co\OneDrive\Документи\GitHub\-exercise-C-\05wordFilter\obj\Debug\net5.0\05wordFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d77co\OneDrive\Документи\GitHub\-exercise-C-\05wordFilter\obj\Debug\net5.0\05wordFilter.AssemblyInfoInputs.cache
+C:\Users\d77co\OneDrive\Документи\GitHub\-exercise-C-\05wordFilter\obj\Debug\net5.0\05wordFilter.AssemblyInfo.cs
+C:\Users\d77co\OneDrive\Документи\GitHub\-exercise-C-\05wordFilter\obj\Debug\net5.0\05wordFilter.csproj.CoreCompileInputs.cache
+C:\Users\d77co\OneDrive\Документи\GitHub\-exercise-C-\05wordFilter\obj\Debug\net5.0\05wordFilter.dll
+C:\Users\d77co\OneDrive\Документи\GitHub\-exercise-C-\05wordFilter\obj\Debug\net5.0\ref\05wordFilter.dll
+C:\Users\d77co\OneDrive\Документи\GitHub\-exercise-C-\05wordFilter\obj\Debug\net5.0\05wordFilter.pdb
+C:\Users\d77co\OneDrive\Документи\GitHub\-exercise-C-\05wordFilter\obj\Debug\net5.0\05wordFilter.genruntimeconfig.cache

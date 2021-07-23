@@ -1,0 +1,16 @@
+C:\Users\d77co\source\repos\midExamPractis\2.shoppingList\bin\Debug\net5.0\2.shoppingList.exe
+C:\Users\d77co\source\repos\midExamPractis\2.shoppingList\bin\Debug\net5.0\2.shoppingList.deps.json
+C:\Users\d77co\source\repos\midExamPractis\2.shoppingList\bin\Debug\net5.0\2.shoppingList.runtimeconfig.json
+C:\Users\d77co\source\repos\midExamPractis\2.shoppingList\bin\Debug\net5.0\2.shoppingList.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\midExamPractis\2.shoppingList\bin\Debug\net5.0\2.shoppingList.dll
+C:\Users\d77co\source\repos\midExamPractis\2.shoppingList\bin\Debug\net5.0\ref\2.shoppingList.dll
+C:\Users\d77co\source\repos\midExamPractis\2.shoppingList\bin\Debug\net5.0\2.shoppingList.pdb
+C:\Users\d77co\source\repos\midExamPractis\2.shoppingList\obj\Debug\net5.0\2.shoppingList.csproj.AssemblyReference.cache
+C:\Users\d77co\source\repos\midExamPractis\2.shoppingList\obj\Debug\net5.0\2.shoppingList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d77co\source\repos\midExamPractis\2.shoppingList\obj\Debug\net5.0\2.shoppingList.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\midExamPractis\2.shoppingList\obj\Debug\net5.0\2.shoppingList.AssemblyInfo.cs
+C:\Users\d77co\source\repos\midExamPractis\2.shoppingList\obj\Debug\net5.0\2.shoppingList.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\midExamPractis\2.shoppingList\obj\Debug\net5.0\2.shoppingList.dll
+C:\Users\d77co\source\repos\midExamPractis\2.shoppingList\obj\Debug\net5.0\ref\2.shoppingList.dll
+C:\Users\d77co\source\repos\midExamPractis\2.shoppingList\obj\Debug\net5.0\2.shoppingList.pdb
+C:\Users\d77co\source\repos\midExamPractis\2.shoppingList\obj\Debug\net5.0\2.shoppingList.genruntimeconfig.cache

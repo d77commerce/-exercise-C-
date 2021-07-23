@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "05wordFilter/1.0.0": {
+        "runtime": {
+          "05wordFilter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "05wordFilter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

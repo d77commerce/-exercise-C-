@@ -1,0 +1,16 @@
+C:\Users\d77co\source\repos\midExamPractis\3.Inventory\bin\Debug\net5.0\3.Inventory.exe
+C:\Users\d77co\source\repos\midExamPractis\3.Inventory\bin\Debug\net5.0\3.Inventory.deps.json
+C:\Users\d77co\source\repos\midExamPractis\3.Inventory\bin\Debug\net5.0\3.Inventory.runtimeconfig.json
+C:\Users\d77co\source\repos\midExamPractis\3.Inventory\bin\Debug\net5.0\3.Inventory.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\midExamPractis\3.Inventory\bin\Debug\net5.0\3.Inventory.dll
+C:\Users\d77co\source\repos\midExamPractis\3.Inventory\bin\Debug\net5.0\ref\3.Inventory.dll
+C:\Users\d77co\source\repos\midExamPractis\3.Inventory\bin\Debug\net5.0\3.Inventory.pdb
+C:\Users\d77co\source\repos\midExamPractis\3.Inventory\obj\Debug\net5.0\3.Inventory.csproj.AssemblyReference.cache
+C:\Users\d77co\source\repos\midExamPractis\3.Inventory\obj\Debug\net5.0\3.Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d77co\source\repos\midExamPractis\3.Inventory\obj\Debug\net5.0\3.Inventory.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\midExamPractis\3.Inventory\obj\Debug\net5.0\3.Inventory.AssemblyInfo.cs
+C:\Users\d77co\source\repos\midExamPractis\3.Inventory\obj\Debug\net5.0\3.Inventory.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\midExamPractis\3.Inventory\obj\Debug\net5.0\3.Inventory.dll
+C:\Users\d77co\source\repos\midExamPractis\3.Inventory\obj\Debug\net5.0\ref\3.Inventory.dll
+C:\Users\d77co\source\repos\midExamPractis\3.Inventory\obj\Debug\net5.0\3.Inventory.pdb
+C:\Users\d77co\source\repos\midExamPractis\3.Inventory\obj\Debug\net5.0\3.Inventory.genruntimeconfig.cache

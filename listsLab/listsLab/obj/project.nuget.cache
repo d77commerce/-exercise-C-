@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KNXadH6Qm8ouU/XKdxwg0tX/ciu6GnzwrqDEulECU2tuz8I1bUTYfuJUxXCBWSa4KcQ6LAfQ6v6Q9YsGHa0Bpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\d77co\\source\\repos\\listsLab\\listsLab\\listsLab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\d77co\\.nuget\\packages\\google.protobuf\\3.17.3\\google.protobuf.3.17.3.nupkg.sha512",
+    "C:\\Users\\d77co\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\d77co\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\d77co\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

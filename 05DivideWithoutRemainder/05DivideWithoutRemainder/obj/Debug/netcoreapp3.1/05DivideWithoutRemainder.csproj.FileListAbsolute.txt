@@ -1,0 +1,13 @@
+C:\Users\d77co\source\repos\05DivideWithoutRemainder\05DivideWithoutRemainder\bin\Debug\netcoreapp3.1\05DivideWithoutRemainder.exe
+C:\Users\d77co\source\repos\05DivideWithoutRemainder\05DivideWithoutRemainder\bin\Debug\netcoreapp3.1\05DivideWithoutRemainder.deps.json
+C:\Users\d77co\source\repos\05DivideWithoutRemainder\05DivideWithoutRemainder\bin\Debug\netcoreapp3.1\05DivideWithoutRemainder.runtimeconfig.json
+C:\Users\d77co\source\repos\05DivideWithoutRemainder\05DivideWithoutRemainder\bin\Debug\netcoreapp3.1\05DivideWithoutRemainder.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\05DivideWithoutRemainder\05DivideWithoutRemainder\bin\Debug\netcoreapp3.1\05DivideWithoutRemainder.dll
+C:\Users\d77co\source\repos\05DivideWithoutRemainder\05DivideWithoutRemainder\bin\Debug\netcoreapp3.1\05DivideWithoutRemainder.pdb
+C:\Users\d77co\source\repos\05DivideWithoutRemainder\05DivideWithoutRemainder\obj\Debug\netcoreapp3.1\05DivideWithoutRemainder.csprojAssemblyReference.cache
+C:\Users\d77co\source\repos\05DivideWithoutRemainder\05DivideWithoutRemainder\obj\Debug\netcoreapp3.1\05DivideWithoutRemainder.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\05DivideWithoutRemainder\05DivideWithoutRemainder\obj\Debug\netcoreapp3.1\05DivideWithoutRemainder.AssemblyInfo.cs
+C:\Users\d77co\source\repos\05DivideWithoutRemainder\05DivideWithoutRemainder\obj\Debug\netcoreapp3.1\05DivideWithoutRemainder.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\05DivideWithoutRemainder\05DivideWithoutRemainder\obj\Debug\netcoreapp3.1\05DivideWithoutRemainder.dll
+C:\Users\d77co\source\repos\05DivideWithoutRemainder\05DivideWithoutRemainder\obj\Debug\netcoreapp3.1\05DivideWithoutRemainder.pdb
+C:\Users\d77co\source\repos\05DivideWithoutRemainder\05DivideWithoutRemainder\obj\Debug\netcoreapp3.1\05DivideWithoutRemainder.genruntimeconfig.cache

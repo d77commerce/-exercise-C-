@@ -1,0 +1,16 @@
+C:\Users\d77co\source\repos\05order\05order\bin\Debug\net5.0\05order.exe
+C:\Users\d77co\source\repos\05order\05order\bin\Debug\net5.0\05order.deps.json
+C:\Users\d77co\source\repos\05order\05order\bin\Debug\net5.0\05order.runtimeconfig.json
+C:\Users\d77co\source\repos\05order\05order\bin\Debug\net5.0\05order.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\05order\05order\bin\Debug\net5.0\05order.dll
+C:\Users\d77co\source\repos\05order\05order\bin\Debug\net5.0\ref\05order.dll
+C:\Users\d77co\source\repos\05order\05order\bin\Debug\net5.0\05order.pdb
+C:\Users\d77co\source\repos\05order\05order\obj\Debug\net5.0\05order.csproj.AssemblyReference.cache
+C:\Users\d77co\source\repos\05order\05order\obj\Debug\net5.0\05order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d77co\source\repos\05order\05order\obj\Debug\net5.0\05order.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\05order\05order\obj\Debug\net5.0\05order.AssemblyInfo.cs
+C:\Users\d77co\source\repos\05order\05order\obj\Debug\net5.0\05order.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\05order\05order\obj\Debug\net5.0\05order.dll
+C:\Users\d77co\source\repos\05order\05order\obj\Debug\net5.0\ref\05order.dll
+C:\Users\d77co\source\repos\05order\05order\obj\Debug\net5.0\05order.pdb
+C:\Users\d77co\source\repos\05order\05order\obj\Debug\net5.0\05order.genruntimeconfig.cache

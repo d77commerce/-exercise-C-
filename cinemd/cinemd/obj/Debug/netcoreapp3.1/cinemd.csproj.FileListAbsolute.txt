@@ -1,0 +1,13 @@
+C:\Users\d77co\source\repos\cinemd\cinemd\bin\Debug\netcoreapp3.1\cinemd.exe
+C:\Users\d77co\source\repos\cinemd\cinemd\bin\Debug\netcoreapp3.1\cinemd.deps.json
+C:\Users\d77co\source\repos\cinemd\cinemd\bin\Debug\netcoreapp3.1\cinemd.runtimeconfig.json
+C:\Users\d77co\source\repos\cinemd\cinemd\bin\Debug\netcoreapp3.1\cinemd.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\cinemd\cinemd\bin\Debug\netcoreapp3.1\cinemd.dll
+C:\Users\d77co\source\repos\cinemd\cinemd\bin\Debug\netcoreapp3.1\cinemd.pdb
+C:\Users\d77co\source\repos\cinemd\cinemd\obj\Debug\netcoreapp3.1\cinemd.csprojAssemblyReference.cache
+C:\Users\d77co\source\repos\cinemd\cinemd\obj\Debug\netcoreapp3.1\cinemd.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\cinemd\cinemd\obj\Debug\netcoreapp3.1\cinemd.AssemblyInfo.cs
+C:\Users\d77co\source\repos\cinemd\cinemd\obj\Debug\netcoreapp3.1\cinemd.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\cinemd\cinemd\obj\Debug\netcoreapp3.1\cinemd.dll
+C:\Users\d77co\source\repos\cinemd\cinemd\obj\Debug\netcoreapp3.1\cinemd.pdb
+C:\Users\d77co\source\repos\cinemd\cinemd\obj\Debug\netcoreapp3.1\cinemd.genruntimeconfig.cache

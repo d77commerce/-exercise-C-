@@ -1,0 +1,16 @@
+C:\Users\d77co\source\repos\dictonary\contisNumbers\bin\Debug\net5.0\contisNumbers.exe
+C:\Users\d77co\source\repos\dictonary\contisNumbers\bin\Debug\net5.0\contisNumbers.deps.json
+C:\Users\d77co\source\repos\dictonary\contisNumbers\bin\Debug\net5.0\contisNumbers.runtimeconfig.json
+C:\Users\d77co\source\repos\dictonary\contisNumbers\bin\Debug\net5.0\contisNumbers.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\dictonary\contisNumbers\bin\Debug\net5.0\contisNumbers.dll
+C:\Users\d77co\source\repos\dictonary\contisNumbers\bin\Debug\net5.0\ref\contisNumbers.dll
+C:\Users\d77co\source\repos\dictonary\contisNumbers\bin\Debug\net5.0\contisNumbers.pdb
+C:\Users\d77co\source\repos\dictonary\contisNumbers\obj\Debug\net5.0\contisNumbers.csproj.AssemblyReference.cache
+C:\Users\d77co\source\repos\dictonary\contisNumbers\obj\Debug\net5.0\contisNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d77co\source\repos\dictonary\contisNumbers\obj\Debug\net5.0\contisNumbers.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\dictonary\contisNumbers\obj\Debug\net5.0\contisNumbers.AssemblyInfo.cs
+C:\Users\d77co\source\repos\dictonary\contisNumbers\obj\Debug\net5.0\contisNumbers.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\dictonary\contisNumbers\obj\Debug\net5.0\contisNumbers.dll
+C:\Users\d77co\source\repos\dictonary\contisNumbers\obj\Debug\net5.0\ref\contisNumbers.dll
+C:\Users\d77co\source\repos\dictonary\contisNumbers\obj\Debug\net5.0\contisNumbers.pdb
+C:\Users\d77co\source\repos\dictonary\contisNumbers\obj\Debug\net5.0\contisNumbers.genruntimeconfig.cache

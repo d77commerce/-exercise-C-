@@ -1,0 +1,13 @@
+C:\Users\d77co\source\repos\air\air\bin\Debug\netcoreapp3.1\air.exe
+C:\Users\d77co\source\repos\air\air\bin\Debug\netcoreapp3.1\air.deps.json
+C:\Users\d77co\source\repos\air\air\bin\Debug\netcoreapp3.1\air.runtimeconfig.json
+C:\Users\d77co\source\repos\air\air\bin\Debug\netcoreapp3.1\air.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\air\air\bin\Debug\netcoreapp3.1\air.dll
+C:\Users\d77co\source\repos\air\air\bin\Debug\netcoreapp3.1\air.pdb
+C:\Users\d77co\source\repos\air\air\obj\Debug\netcoreapp3.1\air.csprojAssemblyReference.cache
+C:\Users\d77co\source\repos\air\air\obj\Debug\netcoreapp3.1\air.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\air\air\obj\Debug\netcoreapp3.1\air.AssemblyInfo.cs
+C:\Users\d77co\source\repos\air\air\obj\Debug\netcoreapp3.1\air.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\air\air\obj\Debug\netcoreapp3.1\air.dll
+C:\Users\d77co\source\repos\air\air\obj\Debug\netcoreapp3.1\air.pdb
+C:\Users\d77co\source\repos\air\air\obj\Debug\netcoreapp3.1\air.genruntimeconfig.cache

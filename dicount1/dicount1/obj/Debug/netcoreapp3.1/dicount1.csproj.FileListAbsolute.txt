@@ -1,0 +1,13 @@
+C:\Users\d77co\source\repos\dicount1\dicount1\bin\Debug\netcoreapp3.1\dicount1.exe
+C:\Users\d77co\source\repos\dicount1\dicount1\bin\Debug\netcoreapp3.1\dicount1.deps.json
+C:\Users\d77co\source\repos\dicount1\dicount1\bin\Debug\netcoreapp3.1\dicount1.runtimeconfig.json
+C:\Users\d77co\source\repos\dicount1\dicount1\bin\Debug\netcoreapp3.1\dicount1.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\dicount1\dicount1\bin\Debug\netcoreapp3.1\dicount1.dll
+C:\Users\d77co\source\repos\dicount1\dicount1\bin\Debug\netcoreapp3.1\dicount1.pdb
+C:\Users\d77co\source\repos\dicount1\dicount1\obj\Debug\netcoreapp3.1\dicount1.csprojAssemblyReference.cache
+C:\Users\d77co\source\repos\dicount1\dicount1\obj\Debug\netcoreapp3.1\dicount1.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\dicount1\dicount1\obj\Debug\netcoreapp3.1\dicount1.AssemblyInfo.cs
+C:\Users\d77co\source\repos\dicount1\dicount1\obj\Debug\netcoreapp3.1\dicount1.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\dicount1\dicount1\obj\Debug\netcoreapp3.1\dicount1.dll
+C:\Users\d77co\source\repos\dicount1\dicount1\obj\Debug\netcoreapp3.1\dicount1.pdb
+C:\Users\d77co\source\repos\dicount1\dicount1\obj\Debug\netcoreapp3.1\dicount1.genruntimeconfig.cache

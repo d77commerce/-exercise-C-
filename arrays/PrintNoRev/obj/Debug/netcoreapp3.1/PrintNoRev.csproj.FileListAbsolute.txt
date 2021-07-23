@@ -1,0 +1,13 @@
+C:\Users\d77co\source\repos\arrays\PrintNoRev\bin\Debug\netcoreapp3.1\PrintNoRev.exe
+C:\Users\d77co\source\repos\arrays\PrintNoRev\bin\Debug\netcoreapp3.1\PrintNoRev.deps.json
+C:\Users\d77co\source\repos\arrays\PrintNoRev\bin\Debug\netcoreapp3.1\PrintNoRev.runtimeconfig.json
+C:\Users\d77co\source\repos\arrays\PrintNoRev\bin\Debug\netcoreapp3.1\PrintNoRev.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\arrays\PrintNoRev\bin\Debug\netcoreapp3.1\PrintNoRev.dll
+C:\Users\d77co\source\repos\arrays\PrintNoRev\bin\Debug\netcoreapp3.1\PrintNoRev.pdb
+C:\Users\d77co\source\repos\arrays\PrintNoRev\obj\Debug\netcoreapp3.1\PrintNoRev.csprojAssemblyReference.cache
+C:\Users\d77co\source\repos\arrays\PrintNoRev\obj\Debug\netcoreapp3.1\PrintNoRev.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\arrays\PrintNoRev\obj\Debug\netcoreapp3.1\PrintNoRev.AssemblyInfo.cs
+C:\Users\d77co\source\repos\arrays\PrintNoRev\obj\Debug\netcoreapp3.1\PrintNoRev.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\arrays\PrintNoRev\obj\Debug\netcoreapp3.1\PrintNoRev.dll
+C:\Users\d77co\source\repos\arrays\PrintNoRev\obj\Debug\netcoreapp3.1\PrintNoRev.pdb
+C:\Users\d77co\source\repos\arrays\PrintNoRev\obj\Debug\netcoreapp3.1\PrintNoRev.genruntimeconfig.cache

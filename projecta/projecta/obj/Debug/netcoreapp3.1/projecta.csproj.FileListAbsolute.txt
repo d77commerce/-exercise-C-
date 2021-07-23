@@ -1,0 +1,13 @@
+C:\Users\d77co\source\repos\projecta\projecta\bin\Debug\netcoreapp3.1\projecta.exe
+C:\Users\d77co\source\repos\projecta\projecta\bin\Debug\netcoreapp3.1\projecta.deps.json
+C:\Users\d77co\source\repos\projecta\projecta\bin\Debug\netcoreapp3.1\projecta.runtimeconfig.json
+C:\Users\d77co\source\repos\projecta\projecta\bin\Debug\netcoreapp3.1\projecta.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\projecta\projecta\bin\Debug\netcoreapp3.1\projecta.dll
+C:\Users\d77co\source\repos\projecta\projecta\bin\Debug\netcoreapp3.1\projecta.pdb
+C:\Users\d77co\source\repos\projecta\projecta\obj\Debug\netcoreapp3.1\projecta.csprojAssemblyReference.cache
+C:\Users\d77co\source\repos\projecta\projecta\obj\Debug\netcoreapp3.1\projecta.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\projecta\projecta\obj\Debug\netcoreapp3.1\projecta.AssemblyInfo.cs
+C:\Users\d77co\source\repos\projecta\projecta\obj\Debug\netcoreapp3.1\projecta.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\projecta\projecta\obj\Debug\netcoreapp3.1\projecta.dll
+C:\Users\d77co\source\repos\projecta\projecta\obj\Debug\netcoreapp3.1\projecta.pdb
+C:\Users\d77co\source\repos\projecta\projecta\obj\Debug\netcoreapp3.1\projecta.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\d77co\source\repos\midExamPractis\1Problem2MuOnline\bin\Debug\net5.0\1Problem2MuOnline.exe
+C:\Users\d77co\source\repos\midExamPractis\1Problem2MuOnline\bin\Debug\net5.0\1Problem2MuOnline.deps.json
+C:\Users\d77co\source\repos\midExamPractis\1Problem2MuOnline\bin\Debug\net5.0\1Problem2MuOnline.runtimeconfig.json
+C:\Users\d77co\source\repos\midExamPractis\1Problem2MuOnline\bin\Debug\net5.0\1Problem2MuOnline.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\midExamPractis\1Problem2MuOnline\bin\Debug\net5.0\1Problem2MuOnline.dll
+C:\Users\d77co\source\repos\midExamPractis\1Problem2MuOnline\bin\Debug\net5.0\ref\1Problem2MuOnline.dll
+C:\Users\d77co\source\repos\midExamPractis\1Problem2MuOnline\bin\Debug\net5.0\1Problem2MuOnline.pdb
+C:\Users\d77co\source\repos\midExamPractis\1Problem2MuOnline\obj\Debug\net5.0\1Problem2MuOnline.csproj.AssemblyReference.cache
+C:\Users\d77co\source\repos\midExamPractis\1Problem2MuOnline\obj\Debug\net5.0\1Problem2MuOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d77co\source\repos\midExamPractis\1Problem2MuOnline\obj\Debug\net5.0\1Problem2MuOnline.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\midExamPractis\1Problem2MuOnline\obj\Debug\net5.0\1Problem2MuOnline.AssemblyInfo.cs
+C:\Users\d77co\source\repos\midExamPractis\1Problem2MuOnline\obj\Debug\net5.0\1Problem2MuOnline.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\midExamPractis\1Problem2MuOnline\obj\Debug\net5.0\1Problem2MuOnline.dll
+C:\Users\d77co\source\repos\midExamPractis\1Problem2MuOnline\obj\Debug\net5.0\ref\1Problem2MuOnline.dll
+C:\Users\d77co\source\repos\midExamPractis\1Problem2MuOnline\obj\Debug\net5.0\1Problem2MuOnline.pdb
+C:\Users\d77co\source\repos\midExamPractis\1Problem2MuOnline\obj\Debug\net5.0\1Problem2MuOnline.genruntimeconfig.cache

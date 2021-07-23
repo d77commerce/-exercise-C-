@@ -1,0 +1,13 @@
+C:\Users\d77co\source\repos\apartmen\apartmen\bin\Debug\netcoreapp3.1\apartmen.exe
+C:\Users\d77co\source\repos\apartmen\apartmen\bin\Debug\netcoreapp3.1\apartmen.deps.json
+C:\Users\d77co\source\repos\apartmen\apartmen\bin\Debug\netcoreapp3.1\apartmen.runtimeconfig.json
+C:\Users\d77co\source\repos\apartmen\apartmen\bin\Debug\netcoreapp3.1\apartmen.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\apartmen\apartmen\bin\Debug\netcoreapp3.1\apartmen.dll
+C:\Users\d77co\source\repos\apartmen\apartmen\bin\Debug\netcoreapp3.1\apartmen.pdb
+C:\Users\d77co\source\repos\apartmen\apartmen\obj\Debug\netcoreapp3.1\apartmen.csprojAssemblyReference.cache
+C:\Users\d77co\source\repos\apartmen\apartmen\obj\Debug\netcoreapp3.1\apartmen.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\apartmen\apartmen\obj\Debug\netcoreapp3.1\apartmen.AssemblyInfo.cs
+C:\Users\d77co\source\repos\apartmen\apartmen\obj\Debug\netcoreapp3.1\apartmen.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\apartmen\apartmen\obj\Debug\netcoreapp3.1\apartmen.dll
+C:\Users\d77co\source\repos\apartmen\apartmen\obj\Debug\netcoreapp3.1\apartmen.pdb
+C:\Users\d77co\source\repos\apartmen\apartmen\obj\Debug\netcoreapp3.1\apartmen.genruntimeconfig.cache

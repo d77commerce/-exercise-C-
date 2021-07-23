@@ -1,0 +1,16 @@
+C:\Users\d77co\source\repos\midExam\midExam\bin\Debug\net5.0\midExam.exe
+C:\Users\d77co\source\repos\midExam\midExam\bin\Debug\net5.0\midExam.deps.json
+C:\Users\d77co\source\repos\midExam\midExam\bin\Debug\net5.0\midExam.runtimeconfig.json
+C:\Users\d77co\source\repos\midExam\midExam\bin\Debug\net5.0\midExam.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\midExam\midExam\bin\Debug\net5.0\midExam.dll
+C:\Users\d77co\source\repos\midExam\midExam\bin\Debug\net5.0\ref\midExam.dll
+C:\Users\d77co\source\repos\midExam\midExam\bin\Debug\net5.0\midExam.pdb
+C:\Users\d77co\source\repos\midExam\midExam\obj\Debug\net5.0\midExam.csproj.AssemblyReference.cache
+C:\Users\d77co\source\repos\midExam\midExam\obj\Debug\net5.0\midExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d77co\source\repos\midExam\midExam\obj\Debug\net5.0\midExam.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\midExam\midExam\obj\Debug\net5.0\midExam.AssemblyInfo.cs
+C:\Users\d77co\source\repos\midExam\midExam\obj\Debug\net5.0\midExam.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\midExam\midExam\obj\Debug\net5.0\midExam.dll
+C:\Users\d77co\source\repos\midExam\midExam\obj\Debug\net5.0\ref\midExam.dll
+C:\Users\d77co\source\repos\midExam\midExam\obj\Debug\net5.0\midExam.pdb
+C:\Users\d77co\source\repos\midExam\midExam\obj\Debug\net5.0\midExam.genruntimeconfig.cache

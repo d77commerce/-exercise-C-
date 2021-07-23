@@ -1,0 +1,13 @@
+C:\Users\d77co\source\repos\gggggg4ffff\06list\bin\Debug\netcoreapp3.1\06list.exe
+C:\Users\d77co\source\repos\gggggg4ffff\06list\bin\Debug\netcoreapp3.1\06list.deps.json
+C:\Users\d77co\source\repos\gggggg4ffff\06list\bin\Debug\netcoreapp3.1\06list.runtimeconfig.json
+C:\Users\d77co\source\repos\gggggg4ffff\06list\bin\Debug\netcoreapp3.1\06list.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\gggggg4ffff\06list\bin\Debug\netcoreapp3.1\06list.dll
+C:\Users\d77co\source\repos\gggggg4ffff\06list\bin\Debug\netcoreapp3.1\06list.pdb
+C:\Users\d77co\source\repos\gggggg4ffff\06list\obj\Debug\netcoreapp3.1\06list.csproj.AssemblyReference.cache
+C:\Users\d77co\source\repos\gggggg4ffff\06list\obj\Debug\netcoreapp3.1\06list.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\gggggg4ffff\06list\obj\Debug\netcoreapp3.1\06list.AssemblyInfo.cs
+C:\Users\d77co\source\repos\gggggg4ffff\06list\obj\Debug\netcoreapp3.1\06list.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\gggggg4ffff\06list\obj\Debug\netcoreapp3.1\06list.dll
+C:\Users\d77co\source\repos\gggggg4ffff\06list\obj\Debug\netcoreapp3.1\06list.pdb
+C:\Users\d77co\source\repos\gggggg4ffff\06list\obj\Debug\netcoreapp3.1\06list.genruntimeconfig.cache

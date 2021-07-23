@@ -1,0 +1,13 @@
+C:\Users\d77co\source\repos\arrays\pasword\bin\Debug\netcoreapp3.1\pasword.exe
+C:\Users\d77co\source\repos\arrays\pasword\bin\Debug\netcoreapp3.1\pasword.deps.json
+C:\Users\d77co\source\repos\arrays\pasword\bin\Debug\netcoreapp3.1\pasword.runtimeconfig.json
+C:\Users\d77co\source\repos\arrays\pasword\bin\Debug\netcoreapp3.1\pasword.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\arrays\pasword\bin\Debug\netcoreapp3.1\pasword.dll
+C:\Users\d77co\source\repos\arrays\pasword\bin\Debug\netcoreapp3.1\pasword.pdb
+C:\Users\d77co\source\repos\arrays\pasword\obj\Debug\netcoreapp3.1\pasword.csprojAssemblyReference.cache
+C:\Users\d77co\source\repos\arrays\pasword\obj\Debug\netcoreapp3.1\pasword.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\arrays\pasword\obj\Debug\netcoreapp3.1\pasword.AssemblyInfo.cs
+C:\Users\d77co\source\repos\arrays\pasword\obj\Debug\netcoreapp3.1\pasword.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\arrays\pasword\obj\Debug\netcoreapp3.1\pasword.dll
+C:\Users\d77co\source\repos\arrays\pasword\obj\Debug\netcoreapp3.1\pasword.pdb
+C:\Users\d77co\source\repos\arrays\pasword\obj\Debug\netcoreapp3.1\pasword.genruntimeconfig.cache

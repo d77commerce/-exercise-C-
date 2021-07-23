@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FTEErxddHIr9C33MM/ShwiP/L994KM2j8pxxqPUoDVkyK/XkgGvMh8GsDs+liz0wYC9CyyO3IXmxL8nCNiHMNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\d77co\\source\\repos\\arrays\\Characters in Range\\Characters in Range.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\d77co\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\d77co\source\repos\fishTanck\fishTanck\bin\Debug\netcoreapp3.1\fishTanck.exe
+C:\Users\d77co\source\repos\fishTanck\fishTanck\bin\Debug\netcoreapp3.1\fishTanck.deps.json
+C:\Users\d77co\source\repos\fishTanck\fishTanck\bin\Debug\netcoreapp3.1\fishTanck.runtimeconfig.json
+C:\Users\d77co\source\repos\fishTanck\fishTanck\bin\Debug\netcoreapp3.1\fishTanck.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\fishTanck\fishTanck\bin\Debug\netcoreapp3.1\fishTanck.dll
+C:\Users\d77co\source\repos\fishTanck\fishTanck\bin\Debug\netcoreapp3.1\fishTanck.pdb
+C:\Users\d77co\source\repos\fishTanck\fishTanck\obj\Debug\netcoreapp3.1\fishTanck.csprojAssemblyReference.cache
+C:\Users\d77co\source\repos\fishTanck\fishTanck\obj\Debug\netcoreapp3.1\fishTanck.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\fishTanck\fishTanck\obj\Debug\netcoreapp3.1\fishTanck.AssemblyInfo.cs
+C:\Users\d77co\source\repos\fishTanck\fishTanck\obj\Debug\netcoreapp3.1\fishTanck.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\fishTanck\fishTanck\obj\Debug\netcoreapp3.1\fishTanck.dll
+C:\Users\d77co\source\repos\fishTanck\fishTanck\obj\Debug\netcoreapp3.1\fishTanck.pdb
+C:\Users\d77co\source\repos\fishTanck\fishTanck\obj\Debug\netcoreapp3.1\fishTanck.genruntimeconfig.cache

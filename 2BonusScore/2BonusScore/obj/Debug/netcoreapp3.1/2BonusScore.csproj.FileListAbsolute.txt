@@ -1,0 +1,13 @@
+C:\Users\d77co\source\repos\2BonusScore\2BonusScore\bin\Debug\netcoreapp3.1\2BonusScore.exe
+C:\Users\d77co\source\repos\2BonusScore\2BonusScore\bin\Debug\netcoreapp3.1\2BonusScore.deps.json
+C:\Users\d77co\source\repos\2BonusScore\2BonusScore\bin\Debug\netcoreapp3.1\2BonusScore.runtimeconfig.json
+C:\Users\d77co\source\repos\2BonusScore\2BonusScore\bin\Debug\netcoreapp3.1\2BonusScore.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\2BonusScore\2BonusScore\bin\Debug\netcoreapp3.1\2BonusScore.dll
+C:\Users\d77co\source\repos\2BonusScore\2BonusScore\bin\Debug\netcoreapp3.1\2BonusScore.pdb
+C:\Users\d77co\source\repos\2BonusScore\2BonusScore\obj\Debug\netcoreapp3.1\2BonusScore.csprojAssemblyReference.cache
+C:\Users\d77co\source\repos\2BonusScore\2BonusScore\obj\Debug\netcoreapp3.1\2BonusScore.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\2BonusScore\2BonusScore\obj\Debug\netcoreapp3.1\2BonusScore.AssemblyInfo.cs
+C:\Users\d77co\source\repos\2BonusScore\2BonusScore\obj\Debug\netcoreapp3.1\2BonusScore.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\2BonusScore\2BonusScore\obj\Debug\netcoreapp3.1\2BonusScore.dll
+C:\Users\d77co\source\repos\2BonusScore\2BonusScore\obj\Debug\netcoreapp3.1\2BonusScore.pdb
+C:\Users\d77co\source\repos\2BonusScore\2BonusScore\obj\Debug\netcoreapp3.1\2BonusScore.genruntimeconfig.cache

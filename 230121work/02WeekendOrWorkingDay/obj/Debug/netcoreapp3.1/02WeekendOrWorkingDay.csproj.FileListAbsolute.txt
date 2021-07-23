@@ -1,0 +1,4 @@
+C:\Users\d77co\source\repos\230121work\02WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\02WeekendOrWorkingDay.csprojAssemblyReference.cache
+C:\Users\d77co\source\repos\230121work\02WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\02WeekendOrWorkingDay.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\230121work\02WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\02WeekendOrWorkingDay.AssemblyInfo.cs
+C:\Users\d77co\source\repos\230121work\02WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\02WeekendOrWorkingDay.csproj.CoreCompileInputs.cache

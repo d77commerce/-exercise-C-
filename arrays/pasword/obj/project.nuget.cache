@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y5URuLOiln3+huA6CziMatvbhb85By2nMKLvkoc/BYSG0OQf12zEtCq1hZRUmD9I7d34UhX5MJudI0qD4Hs4sQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\d77co\\source\\repos\\arrays\\pasword\\pasword.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\d77co\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

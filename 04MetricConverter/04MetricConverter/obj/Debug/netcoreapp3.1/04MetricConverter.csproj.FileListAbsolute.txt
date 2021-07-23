@@ -1,0 +1,13 @@
+C:\Users\d77co\source\repos\04MetricConverter\04MetricConverter\bin\Debug\netcoreapp3.1\04MetricConverter.exe
+C:\Users\d77co\source\repos\04MetricConverter\04MetricConverter\bin\Debug\netcoreapp3.1\04MetricConverter.deps.json
+C:\Users\d77co\source\repos\04MetricConverter\04MetricConverter\bin\Debug\netcoreapp3.1\04MetricConverter.runtimeconfig.json
+C:\Users\d77co\source\repos\04MetricConverter\04MetricConverter\bin\Debug\netcoreapp3.1\04MetricConverter.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\04MetricConverter\04MetricConverter\bin\Debug\netcoreapp3.1\04MetricConverter.dll
+C:\Users\d77co\source\repos\04MetricConverter\04MetricConverter\bin\Debug\netcoreapp3.1\04MetricConverter.pdb
+C:\Users\d77co\source\repos\04MetricConverter\04MetricConverter\obj\Debug\netcoreapp3.1\04MetricConverter.csprojAssemblyReference.cache
+C:\Users\d77co\source\repos\04MetricConverter\04MetricConverter\obj\Debug\netcoreapp3.1\04MetricConverter.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\04MetricConverter\04MetricConverter\obj\Debug\netcoreapp3.1\04MetricConverter.AssemblyInfo.cs
+C:\Users\d77co\source\repos\04MetricConverter\04MetricConverter\obj\Debug\netcoreapp3.1\04MetricConverter.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\04MetricConverter\04MetricConverter\obj\Debug\netcoreapp3.1\04MetricConverter.dll
+C:\Users\d77co\source\repos\04MetricConverter\04MetricConverter\obj\Debug\netcoreapp3.1\04MetricConverter.pdb
+C:\Users\d77co\source\repos\04MetricConverter\04MetricConverter\obj\Debug\netcoreapp3.1\04MetricConverter.genruntimeconfig.cache

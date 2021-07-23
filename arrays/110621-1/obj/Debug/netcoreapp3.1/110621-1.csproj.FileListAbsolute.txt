@@ -1,0 +1,13 @@
+C:\Users\d77co\source\repos\arrays\110621-1\bin\Debug\netcoreapp3.1\110621-1.exe
+C:\Users\d77co\source\repos\arrays\110621-1\bin\Debug\netcoreapp3.1\110621-1.deps.json
+C:\Users\d77co\source\repos\arrays\110621-1\bin\Debug\netcoreapp3.1\110621-1.runtimeconfig.json
+C:\Users\d77co\source\repos\arrays\110621-1\bin\Debug\netcoreapp3.1\110621-1.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\arrays\110621-1\bin\Debug\netcoreapp3.1\110621-1.dll
+C:\Users\d77co\source\repos\arrays\110621-1\bin\Debug\netcoreapp3.1\110621-1.pdb
+C:\Users\d77co\source\repos\arrays\110621-1\obj\Debug\netcoreapp3.1\110621-1.csprojAssemblyReference.cache
+C:\Users\d77co\source\repos\arrays\110621-1\obj\Debug\netcoreapp3.1\110621-1.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\arrays\110621-1\obj\Debug\netcoreapp3.1\110621-1.AssemblyInfo.cs
+C:\Users\d77co\source\repos\arrays\110621-1\obj\Debug\netcoreapp3.1\110621-1.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\arrays\110621-1\obj\Debug\netcoreapp3.1\110621-1.dll
+C:\Users\d77co\source\repos\arrays\110621-1\obj\Debug\netcoreapp3.1\110621-1.pdb
+C:\Users\d77co\source\repos\arrays\110621-1\obj\Debug\netcoreapp3.1\110621-1.genruntimeconfig.cache

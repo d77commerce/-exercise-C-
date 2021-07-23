@@ -1,0 +1,16 @@
+C:\Users\d77co\source\repos\midExamPractis\midExamPractis\bin\Debug\net5.0\midExamPractis.exe
+C:\Users\d77co\source\repos\midExamPractis\midExamPractis\bin\Debug\net5.0\midExamPractis.deps.json
+C:\Users\d77co\source\repos\midExamPractis\midExamPractis\bin\Debug\net5.0\midExamPractis.runtimeconfig.json
+C:\Users\d77co\source\repos\midExamPractis\midExamPractis\bin\Debug\net5.0\midExamPractis.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\midExamPractis\midExamPractis\bin\Debug\net5.0\midExamPractis.dll
+C:\Users\d77co\source\repos\midExamPractis\midExamPractis\bin\Debug\net5.0\ref\midExamPractis.dll
+C:\Users\d77co\source\repos\midExamPractis\midExamPractis\bin\Debug\net5.0\midExamPractis.pdb
+C:\Users\d77co\source\repos\midExamPractis\midExamPractis\obj\Debug\net5.0\midExamPractis.csproj.AssemblyReference.cache
+C:\Users\d77co\source\repos\midExamPractis\midExamPractis\obj\Debug\net5.0\midExamPractis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d77co\source\repos\midExamPractis\midExamPractis\obj\Debug\net5.0\midExamPractis.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\midExamPractis\midExamPractis\obj\Debug\net5.0\midExamPractis.AssemblyInfo.cs
+C:\Users\d77co\source\repos\midExamPractis\midExamPractis\obj\Debug\net5.0\midExamPractis.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\midExamPractis\midExamPractis\obj\Debug\net5.0\midExamPractis.dll
+C:\Users\d77co\source\repos\midExamPractis\midExamPractis\obj\Debug\net5.0\ref\midExamPractis.dll
+C:\Users\d77co\source\repos\midExamPractis\midExamPractis\obj\Debug\net5.0\midExamPractis.pdb
+C:\Users\d77co\source\repos\midExamPractis\midExamPractis\obj\Debug\net5.0\midExamPractis.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\d77co\source\repos\fruitShoping\fruitShoping\bin\Debug\netcoreapp3.1\fruitShoping.exe
+C:\Users\d77co\source\repos\fruitShoping\fruitShoping\bin\Debug\netcoreapp3.1\fruitShoping.deps.json
+C:\Users\d77co\source\repos\fruitShoping\fruitShoping\bin\Debug\netcoreapp3.1\fruitShoping.runtimeconfig.json
+C:\Users\d77co\source\repos\fruitShoping\fruitShoping\bin\Debug\netcoreapp3.1\fruitShoping.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\fruitShoping\fruitShoping\bin\Debug\netcoreapp3.1\fruitShoping.dll
+C:\Users\d77co\source\repos\fruitShoping\fruitShoping\bin\Debug\netcoreapp3.1\fruitShoping.pdb
+C:\Users\d77co\source\repos\fruitShoping\fruitShoping\obj\Debug\netcoreapp3.1\fruitShoping.csprojAssemblyReference.cache
+C:\Users\d77co\source\repos\fruitShoping\fruitShoping\obj\Debug\netcoreapp3.1\fruitShoping.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\fruitShoping\fruitShoping\obj\Debug\netcoreapp3.1\fruitShoping.AssemblyInfo.cs
+C:\Users\d77co\source\repos\fruitShoping\fruitShoping\obj\Debug\netcoreapp3.1\fruitShoping.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\fruitShoping\fruitShoping\obj\Debug\netcoreapp3.1\fruitShoping.dll
+C:\Users\d77co\source\repos\fruitShoping\fruitShoping\obj\Debug\netcoreapp3.1\fruitShoping.pdb
+C:\Users\d77co\source\repos\fruitShoping\fruitShoping\obj\Debug\netcoreapp3.1\fruitShoping.genruntimeconfig.cache

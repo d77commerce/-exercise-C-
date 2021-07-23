@@ -1,0 +1,16 @@
+C:\Users\d77co\source\repos\dictonary\repearString\bin\Debug\net5.0\repearString.exe
+C:\Users\d77co\source\repos\dictonary\repearString\bin\Debug\net5.0\repearString.deps.json
+C:\Users\d77co\source\repos\dictonary\repearString\bin\Debug\net5.0\repearString.runtimeconfig.json
+C:\Users\d77co\source\repos\dictonary\repearString\bin\Debug\net5.0\repearString.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\dictonary\repearString\bin\Debug\net5.0\repearString.dll
+C:\Users\d77co\source\repos\dictonary\repearString\bin\Debug\net5.0\ref\repearString.dll
+C:\Users\d77co\source\repos\dictonary\repearString\bin\Debug\net5.0\repearString.pdb
+C:\Users\d77co\source\repos\dictonary\repearString\obj\Debug\net5.0\repearString.csproj.AssemblyReference.cache
+C:\Users\d77co\source\repos\dictonary\repearString\obj\Debug\net5.0\repearString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d77co\source\repos\dictonary\repearString\obj\Debug\net5.0\repearString.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\dictonary\repearString\obj\Debug\net5.0\repearString.AssemblyInfo.cs
+C:\Users\d77co\source\repos\dictonary\repearString\obj\Debug\net5.0\repearString.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\dictonary\repearString\obj\Debug\net5.0\repearString.dll
+C:\Users\d77co\source\repos\dictonary\repearString\obj\Debug\net5.0\ref\repearString.dll
+C:\Users\d77co\source\repos\dictonary\repearString\obj\Debug\net5.0\repearString.pdb
+C:\Users\d77co\source\repos\dictonary\repearString\obj\Debug\net5.0\repearString.genruntimeconfig.cache

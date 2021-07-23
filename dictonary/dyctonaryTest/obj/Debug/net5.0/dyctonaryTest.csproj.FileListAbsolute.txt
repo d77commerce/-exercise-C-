@@ -1,0 +1,16 @@
+C:\Users\d77co\source\repos\dictonary\dyctonaryTest\bin\Debug\net5.0\dyctonaryTest.exe
+C:\Users\d77co\source\repos\dictonary\dyctonaryTest\bin\Debug\net5.0\dyctonaryTest.deps.json
+C:\Users\d77co\source\repos\dictonary\dyctonaryTest\bin\Debug\net5.0\dyctonaryTest.runtimeconfig.json
+C:\Users\d77co\source\repos\dictonary\dyctonaryTest\bin\Debug\net5.0\dyctonaryTest.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\dictonary\dyctonaryTest\bin\Debug\net5.0\dyctonaryTest.dll
+C:\Users\d77co\source\repos\dictonary\dyctonaryTest\bin\Debug\net5.0\ref\dyctonaryTest.dll
+C:\Users\d77co\source\repos\dictonary\dyctonaryTest\bin\Debug\net5.0\dyctonaryTest.pdb
+C:\Users\d77co\source\repos\dictonary\dyctonaryTest\obj\Debug\net5.0\dyctonaryTest.csproj.AssemblyReference.cache
+C:\Users\d77co\source\repos\dictonary\dyctonaryTest\obj\Debug\net5.0\dyctonaryTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d77co\source\repos\dictonary\dyctonaryTest\obj\Debug\net5.0\dyctonaryTest.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\dictonary\dyctonaryTest\obj\Debug\net5.0\dyctonaryTest.AssemblyInfo.cs
+C:\Users\d77co\source\repos\dictonary\dyctonaryTest\obj\Debug\net5.0\dyctonaryTest.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\dictonary\dyctonaryTest\obj\Debug\net5.0\dyctonaryTest.dll
+C:\Users\d77co\source\repos\dictonary\dyctonaryTest\obj\Debug\net5.0\ref\dyctonaryTest.dll
+C:\Users\d77co\source\repos\dictonary\dyctonaryTest\obj\Debug\net5.0\dyctonaryTest.pdb
+C:\Users\d77co\source\repos\dictonary\dyctonaryTest\obj\Debug\net5.0\dyctonaryTest.genruntimeconfig.cache

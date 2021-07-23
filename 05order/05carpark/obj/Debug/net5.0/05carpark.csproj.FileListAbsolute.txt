@@ -1,0 +1,16 @@
+C:\Users\d77co\source\repos\05order\05carpark\bin\Debug\net5.0\05carpark.exe
+C:\Users\d77co\source\repos\05order\05carpark\bin\Debug\net5.0\05carpark.deps.json
+C:\Users\d77co\source\repos\05order\05carpark\bin\Debug\net5.0\05carpark.runtimeconfig.json
+C:\Users\d77co\source\repos\05order\05carpark\bin\Debug\net5.0\05carpark.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\05order\05carpark\bin\Debug\net5.0\05carpark.dll
+C:\Users\d77co\source\repos\05order\05carpark\bin\Debug\net5.0\ref\05carpark.dll
+C:\Users\d77co\source\repos\05order\05carpark\bin\Debug\net5.0\05carpark.pdb
+C:\Users\d77co\source\repos\05order\05carpark\obj\Debug\net5.0\05carpark.csproj.AssemblyReference.cache
+C:\Users\d77co\source\repos\05order\05carpark\obj\Debug\net5.0\05carpark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d77co\source\repos\05order\05carpark\obj\Debug\net5.0\05carpark.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\05order\05carpark\obj\Debug\net5.0\05carpark.AssemblyInfo.cs
+C:\Users\d77co\source\repos\05order\05carpark\obj\Debug\net5.0\05carpark.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\05order\05carpark\obj\Debug\net5.0\05carpark.dll
+C:\Users\d77co\source\repos\05order\05carpark\obj\Debug\net5.0\ref\05carpark.dll
+C:\Users\d77co\source\repos\05order\05carpark\obj\Debug\net5.0\05carpark.pdb
+C:\Users\d77co\source\repos\05order\05carpark\obj\Debug\net5.0\05carpark.genruntimeconfig.cache

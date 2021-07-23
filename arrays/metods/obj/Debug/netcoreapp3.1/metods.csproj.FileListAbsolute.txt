@@ -1,0 +1,13 @@
+C:\Users\d77co\source\repos\arrays\metods\bin\Debug\netcoreapp3.1\metods.exe
+C:\Users\d77co\source\repos\arrays\metods\bin\Debug\netcoreapp3.1\metods.deps.json
+C:\Users\d77co\source\repos\arrays\metods\bin\Debug\netcoreapp3.1\metods.runtimeconfig.json
+C:\Users\d77co\source\repos\arrays\metods\bin\Debug\netcoreapp3.1\metods.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\arrays\metods\bin\Debug\netcoreapp3.1\metods.dll
+C:\Users\d77co\source\repos\arrays\metods\bin\Debug\netcoreapp3.1\metods.pdb
+C:\Users\d77co\source\repos\arrays\metods\obj\Debug\netcoreapp3.1\metods.csprojAssemblyReference.cache
+C:\Users\d77co\source\repos\arrays\metods\obj\Debug\netcoreapp3.1\metods.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\arrays\metods\obj\Debug\netcoreapp3.1\metods.AssemblyInfo.cs
+C:\Users\d77co\source\repos\arrays\metods\obj\Debug\netcoreapp3.1\metods.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\arrays\metods\obj\Debug\netcoreapp3.1\metods.dll
+C:\Users\d77co\source\repos\arrays\metods\obj\Debug\netcoreapp3.1\metods.pdb
+C:\Users\d77co\source\repos\arrays\metods\obj\Debug\netcoreapp3.1\metods.genruntimeconfig.cache

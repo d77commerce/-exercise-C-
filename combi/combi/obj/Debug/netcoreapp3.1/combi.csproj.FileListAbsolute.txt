@@ -1,0 +1,13 @@
+C:\Users\d77co\source\repos\combi\combi\bin\Debug\netcoreapp3.1\combi.exe
+C:\Users\d77co\source\repos\combi\combi\bin\Debug\netcoreapp3.1\combi.deps.json
+C:\Users\d77co\source\repos\combi\combi\bin\Debug\netcoreapp3.1\combi.runtimeconfig.json
+C:\Users\d77co\source\repos\combi\combi\bin\Debug\netcoreapp3.1\combi.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\combi\combi\bin\Debug\netcoreapp3.1\combi.dll
+C:\Users\d77co\source\repos\combi\combi\bin\Debug\netcoreapp3.1\combi.pdb
+C:\Users\d77co\source\repos\combi\combi\obj\Debug\netcoreapp3.1\combi.csprojAssemblyReference.cache
+C:\Users\d77co\source\repos\combi\combi\obj\Debug\netcoreapp3.1\combi.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\combi\combi\obj\Debug\netcoreapp3.1\combi.AssemblyInfo.cs
+C:\Users\d77co\source\repos\combi\combi\obj\Debug\netcoreapp3.1\combi.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\combi\combi\obj\Debug\netcoreapp3.1\combi.dll
+C:\Users\d77co\source\repos\combi\combi\obj\Debug\netcoreapp3.1\combi.pdb
+C:\Users\d77co\source\repos\combi\combi\obj\Debug\netcoreapp3.1\combi.genruntimeconfig.cache

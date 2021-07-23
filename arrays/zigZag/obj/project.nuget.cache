@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F5mbMPdFv/gO4Ky4EAp8ZcPn6WEGdC0696CG73LMK4yr9mxIUoAiAh1jVqGn0LiO7eJ4Q+geeEkpZh6mf8kH8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\d77co\\source\\repos\\arrays\\zigZag\\zigZag.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\d77co\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

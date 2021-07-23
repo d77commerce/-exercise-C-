@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equal Sums Even Odd Position", "Equal Sums Even Odd Position\Equal Sums Even Odd Position.csproj", "{304A4C35-CCEC-4902-A69E-B2070C2A1ADB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{304A4C35-CCEC-4902-A69E-B2070C2A1ADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{304A4C35-CCEC-4902-A69E-B2070C2A1ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{304A4C35-CCEC-4902-A69E-B2070C2A1ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{304A4C35-CCEC-4902-A69E-B2070C2A1ADB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83583D54-1336-46C8-BAB6-601220C0CC4C}
+	EndGlobalSection
+EndGlobal

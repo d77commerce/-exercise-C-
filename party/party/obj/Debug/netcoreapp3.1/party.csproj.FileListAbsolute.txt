@@ -1,0 +1,13 @@
+C:\Users\d77co\source\repos\party\party\bin\Debug\netcoreapp3.1\party.exe
+C:\Users\d77co\source\repos\party\party\bin\Debug\netcoreapp3.1\party.deps.json
+C:\Users\d77co\source\repos\party\party\bin\Debug\netcoreapp3.1\party.runtimeconfig.json
+C:\Users\d77co\source\repos\party\party\bin\Debug\netcoreapp3.1\party.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\party\party\bin\Debug\netcoreapp3.1\party.dll
+C:\Users\d77co\source\repos\party\party\bin\Debug\netcoreapp3.1\party.pdb
+C:\Users\d77co\source\repos\party\party\obj\Debug\netcoreapp3.1\party.csprojAssemblyReference.cache
+C:\Users\d77co\source\repos\party\party\obj\Debug\netcoreapp3.1\party.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\party\party\obj\Debug\netcoreapp3.1\party.AssemblyInfo.cs
+C:\Users\d77co\source\repos\party\party\obj\Debug\netcoreapp3.1\party.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\party\party\obj\Debug\netcoreapp3.1\party.dll
+C:\Users\d77co\source\repos\party\party\obj\Debug\netcoreapp3.1\party.pdb
+C:\Users\d77co\source\repos\party\party\obj\Debug\netcoreapp3.1\party.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\d77co\source\repos\GreatNumber\GreatNumber\obj\Debug\netcoreapp3.1\GreatNumber.csprojAssemblyReference.cache
+C:\Users\d77co\source\repos\GreatNumber\GreatNumber\obj\Debug\netcoreapp3.1\GreatNumber.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\GreatNumber\GreatNumber\obj\Debug\netcoreapp3.1\GreatNumber.AssemblyInfo.cs
+C:\Users\d77co\source\repos\GreatNumber\GreatNumber\obj\Debug\netcoreapp3.1\GreatNumber.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\GreatNumber\GreatNumber\bin\Debug\netcoreapp3.1\GreatNumber.exe
+C:\Users\d77co\source\repos\GreatNumber\GreatNumber\bin\Debug\netcoreapp3.1\GreatNumber.deps.json
+C:\Users\d77co\source\repos\GreatNumber\GreatNumber\bin\Debug\netcoreapp3.1\GreatNumber.runtimeconfig.json
+C:\Users\d77co\source\repos\GreatNumber\GreatNumber\bin\Debug\netcoreapp3.1\GreatNumber.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\GreatNumber\GreatNumber\bin\Debug\netcoreapp3.1\GreatNumber.dll
+C:\Users\d77co\source\repos\GreatNumber\GreatNumber\bin\Debug\netcoreapp3.1\GreatNumber.pdb
+C:\Users\d77co\source\repos\GreatNumber\GreatNumber\obj\Debug\netcoreapp3.1\GreatNumber.dll
+C:\Users\d77co\source\repos\GreatNumber\GreatNumber\obj\Debug\netcoreapp3.1\GreatNumber.pdb
+C:\Users\d77co\source\repos\GreatNumber\GreatNumber\obj\Debug\netcoreapp3.1\GreatNumber.genruntimeconfig.cache

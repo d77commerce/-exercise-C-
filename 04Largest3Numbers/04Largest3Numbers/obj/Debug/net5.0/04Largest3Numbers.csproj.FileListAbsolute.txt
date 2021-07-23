@@ -1,0 +1,16 @@
+C:\Users\d77co\source\repos\04Largest3Numbers\04Largest3Numbers\bin\Debug\net5.0\04Largest3Numbers.exe
+C:\Users\d77co\source\repos\04Largest3Numbers\04Largest3Numbers\bin\Debug\net5.0\04Largest3Numbers.deps.json
+C:\Users\d77co\source\repos\04Largest3Numbers\04Largest3Numbers\bin\Debug\net5.0\04Largest3Numbers.runtimeconfig.json
+C:\Users\d77co\source\repos\04Largest3Numbers\04Largest3Numbers\bin\Debug\net5.0\04Largest3Numbers.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\04Largest3Numbers\04Largest3Numbers\bin\Debug\net5.0\04Largest3Numbers.dll
+C:\Users\d77co\source\repos\04Largest3Numbers\04Largest3Numbers\bin\Debug\net5.0\ref\04Largest3Numbers.dll
+C:\Users\d77co\source\repos\04Largest3Numbers\04Largest3Numbers\bin\Debug\net5.0\04Largest3Numbers.pdb
+C:\Users\d77co\source\repos\04Largest3Numbers\04Largest3Numbers\obj\Debug\net5.0\04Largest3Numbers.csproj.AssemblyReference.cache
+C:\Users\d77co\source\repos\04Largest3Numbers\04Largest3Numbers\obj\Debug\net5.0\04Largest3Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d77co\source\repos\04Largest3Numbers\04Largest3Numbers\obj\Debug\net5.0\04Largest3Numbers.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\04Largest3Numbers\04Largest3Numbers\obj\Debug\net5.0\04Largest3Numbers.AssemblyInfo.cs
+C:\Users\d77co\source\repos\04Largest3Numbers\04Largest3Numbers\obj\Debug\net5.0\04Largest3Numbers.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\04Largest3Numbers\04Largest3Numbers\obj\Debug\net5.0\04Largest3Numbers.dll
+C:\Users\d77co\source\repos\04Largest3Numbers\04Largest3Numbers\obj\Debug\net5.0\ref\04Largest3Numbers.dll
+C:\Users\d77co\source\repos\04Largest3Numbers\04Largest3Numbers\obj\Debug\net5.0\04Largest3Numbers.pdb
+C:\Users\d77co\source\repos\04Largest3Numbers\04Largest3Numbers\obj\Debug\net5.0\04Largest3Numbers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\d77co\source\repos\22222\22222\obj\Debug\netcoreapp3.1\22222.csprojAssemblyReference.cache
+C:\Users\d77co\source\repos\22222\22222\obj\Debug\netcoreapp3.1\22222.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\22222\22222\obj\Debug\netcoreapp3.1\22222.AssemblyInfo.cs
+C:\Users\d77co\source\repos\22222\22222\obj\Debug\netcoreapp3.1\22222.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\22222\22222\bin\Debug\netcoreapp3.1\22222.exe
+C:\Users\d77co\source\repos\22222\22222\bin\Debug\netcoreapp3.1\22222.deps.json
+C:\Users\d77co\source\repos\22222\22222\bin\Debug\netcoreapp3.1\22222.runtimeconfig.json
+C:\Users\d77co\source\repos\22222\22222\bin\Debug\netcoreapp3.1\22222.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\22222\22222\bin\Debug\netcoreapp3.1\22222.dll
+C:\Users\d77co\source\repos\22222\22222\bin\Debug\netcoreapp3.1\22222.pdb
+C:\Users\d77co\source\repos\22222\22222\obj\Debug\netcoreapp3.1\22222.dll
+C:\Users\d77co\source\repos\22222\22222\obj\Debug\netcoreapp3.1\22222.pdb
+C:\Users\d77co\source\repos\22222\22222\obj\Debug\netcoreapp3.1\22222.genruntimeconfig.cache

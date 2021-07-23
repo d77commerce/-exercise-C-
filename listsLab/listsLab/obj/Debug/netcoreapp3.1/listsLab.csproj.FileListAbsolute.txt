@@ -1,0 +1,15 @@
+C:\Users\d77co\source\repos\listsLab\listsLab\bin\Debug\netcoreapp3.1\listsLab.exe
+C:\Users\d77co\source\repos\listsLab\listsLab\bin\Debug\netcoreapp3.1\listsLab.deps.json
+C:\Users\d77co\source\repos\listsLab\listsLab\bin\Debug\netcoreapp3.1\listsLab.runtimeconfig.json
+C:\Users\d77co\source\repos\listsLab\listsLab\bin\Debug\netcoreapp3.1\listsLab.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\listsLab\listsLab\bin\Debug\netcoreapp3.1\listsLab.dll
+C:\Users\d77co\source\repos\listsLab\listsLab\bin\Debug\netcoreapp3.1\listsLab.pdb
+C:\Users\d77co\source\repos\listsLab\listsLab\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\d77co\source\repos\listsLab\listsLab\obj\Debug\netcoreapp3.1\listsLab.csprojAssemblyReference.cache
+C:\Users\d77co\source\repos\listsLab\listsLab\obj\Debug\netcoreapp3.1\listsLab.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\listsLab\listsLab\obj\Debug\netcoreapp3.1\listsLab.AssemblyInfo.cs
+C:\Users\d77co\source\repos\listsLab\listsLab\obj\Debug\netcoreapp3.1\listsLab.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\listsLab\listsLab\obj\Debug\netcoreapp3.1\listsLab.csproj.CopyComplete
+C:\Users\d77co\source\repos\listsLab\listsLab\obj\Debug\netcoreapp3.1\listsLab.dll
+C:\Users\d77co\source\repos\listsLab\listsLab\obj\Debug\netcoreapp3.1\listsLab.pdb
+C:\Users\d77co\source\repos\listsLab\listsLab\obj\Debug\netcoreapp3.1\listsLab.genruntimeconfig.cache

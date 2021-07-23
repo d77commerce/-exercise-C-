@@ -1,0 +1,13 @@
+C:\Users\d77co\source\repos\gradieit2\gradieit2\bin\Debug\netcoreapp3.1\gradieit2.exe
+C:\Users\d77co\source\repos\gradieit2\gradieit2\bin\Debug\netcoreapp3.1\gradieit2.deps.json
+C:\Users\d77co\source\repos\gradieit2\gradieit2\bin\Debug\netcoreapp3.1\gradieit2.runtimeconfig.json
+C:\Users\d77co\source\repos\gradieit2\gradieit2\bin\Debug\netcoreapp3.1\gradieit2.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\gradieit2\gradieit2\bin\Debug\netcoreapp3.1\gradieit2.dll
+C:\Users\d77co\source\repos\gradieit2\gradieit2\bin\Debug\netcoreapp3.1\gradieit2.pdb
+C:\Users\d77co\source\repos\gradieit2\gradieit2\obj\Debug\netcoreapp3.1\gradieit2.csprojAssemblyReference.cache
+C:\Users\d77co\source\repos\gradieit2\gradieit2\obj\Debug\netcoreapp3.1\gradieit2.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\gradieit2\gradieit2\obj\Debug\netcoreapp3.1\gradieit2.AssemblyInfo.cs
+C:\Users\d77co\source\repos\gradieit2\gradieit2\obj\Debug\netcoreapp3.1\gradieit2.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\gradieit2\gradieit2\obj\Debug\netcoreapp3.1\gradieit2.dll
+C:\Users\d77co\source\repos\gradieit2\gradieit2\obj\Debug\netcoreapp3.1\gradieit2.pdb
+C:\Users\d77co\source\repos\gradieit2\gradieit2\obj\Debug\netcoreapp3.1\gradieit2.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\d77co\source\repos\degre\degre\bin\Debug\netcoreapp3.1\degre.exe
+C:\Users\d77co\source\repos\degre\degre\bin\Debug\netcoreapp3.1\degre.deps.json
+C:\Users\d77co\source\repos\degre\degre\bin\Debug\netcoreapp3.1\degre.runtimeconfig.json
+C:\Users\d77co\source\repos\degre\degre\bin\Debug\netcoreapp3.1\degre.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\degre\degre\bin\Debug\netcoreapp3.1\degre.dll
+C:\Users\d77co\source\repos\degre\degre\bin\Debug\netcoreapp3.1\degre.pdb
+C:\Users\d77co\source\repos\degre\degre\obj\Debug\netcoreapp3.1\degre.csprojAssemblyReference.cache
+C:\Users\d77co\source\repos\degre\degre\obj\Debug\netcoreapp3.1\degre.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\degre\degre\obj\Debug\netcoreapp3.1\degre.AssemblyInfo.cs
+C:\Users\d77co\source\repos\degre\degre\obj\Debug\netcoreapp3.1\degre.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\degre\degre\obj\Debug\netcoreapp3.1\degre.dll
+C:\Users\d77co\source\repos\degre\degre\obj\Debug\netcoreapp3.1\degre.pdb
+C:\Users\d77co\source\repos\degre\degre\obj\Debug\netcoreapp3.1\degre.genruntimeconfig.cache

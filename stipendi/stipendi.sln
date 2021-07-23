@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stipendi", "stipendi\stipendi.csproj", "{D7214D82-BC9C-485F-9708-C1600F06084C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7214D82-BC9C-485F-9708-C1600F06084C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7214D82-BC9C-485F-9708-C1600F06084C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7214D82-BC9C-485F-9708-C1600F06084C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7214D82-BC9C-485F-9708-C1600F06084C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0365C980-1597-4081-8C07-8CEC0F32306F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\d77co\source\repos\presentation\presentation\bin\Debug\netcoreapp3.1\presentation.exe
+C:\Users\d77co\source\repos\presentation\presentation\bin\Debug\netcoreapp3.1\presentation.deps.json
+C:\Users\d77co\source\repos\presentation\presentation\bin\Debug\netcoreapp3.1\presentation.runtimeconfig.json
+C:\Users\d77co\source\repos\presentation\presentation\bin\Debug\netcoreapp3.1\presentation.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\presentation\presentation\bin\Debug\netcoreapp3.1\presentation.dll
+C:\Users\d77co\source\repos\presentation\presentation\bin\Debug\netcoreapp3.1\presentation.pdb
+C:\Users\d77co\source\repos\presentation\presentation\obj\Debug\netcoreapp3.1\presentation.csprojAssemblyReference.cache
+C:\Users\d77co\source\repos\presentation\presentation\obj\Debug\netcoreapp3.1\presentation.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\presentation\presentation\obj\Debug\netcoreapp3.1\presentation.AssemblyInfo.cs
+C:\Users\d77co\source\repos\presentation\presentation\obj\Debug\netcoreapp3.1\presentation.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\presentation\presentation\obj\Debug\netcoreapp3.1\presentation.dll
+C:\Users\d77co\source\repos\presentation\presentation\obj\Debug\netcoreapp3.1\presentation.pdb
+C:\Users\d77co\source\repos\presentation\presentation\obj\Debug\netcoreapp3.1\presentation.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "664q4kjyTKdiZkR67KEOJGWwMjq9QKlRZyrI+1bMnMU7hEpWMzHNP337YgJYQUhOoc1fOd9HFOtl+al9OAn0ww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\d77co\\source\\repos\\arrays\\metods\\metods.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\d77co\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

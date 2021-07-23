@@ -1,0 +1,13 @@
+C:\Users\d77co\source\repos\magicNomber\magicNomber\bin\Debug\netcoreapp3.1\magicNomber.exe
+C:\Users\d77co\source\repos\magicNomber\magicNomber\bin\Debug\netcoreapp3.1\magicNomber.deps.json
+C:\Users\d77co\source\repos\magicNomber\magicNomber\bin\Debug\netcoreapp3.1\magicNomber.runtimeconfig.json
+C:\Users\d77co\source\repos\magicNomber\magicNomber\bin\Debug\netcoreapp3.1\magicNomber.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\magicNomber\magicNomber\bin\Debug\netcoreapp3.1\magicNomber.dll
+C:\Users\d77co\source\repos\magicNomber\magicNomber\bin\Debug\netcoreapp3.1\magicNomber.pdb
+C:\Users\d77co\source\repos\magicNomber\magicNomber\obj\Debug\netcoreapp3.1\magicNomber.csprojAssemblyReference.cache
+C:\Users\d77co\source\repos\magicNomber\magicNomber\obj\Debug\netcoreapp3.1\magicNomber.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\magicNomber\magicNomber\obj\Debug\netcoreapp3.1\magicNomber.AssemblyInfo.cs
+C:\Users\d77co\source\repos\magicNomber\magicNomber\obj\Debug\netcoreapp3.1\magicNomber.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\magicNomber\magicNomber\obj\Debug\netcoreapp3.1\magicNomber.dll
+C:\Users\d77co\source\repos\magicNomber\magicNomber\obj\Debug\netcoreapp3.1\magicNomber.pdb
+C:\Users\d77co\source\repos\magicNomber\magicNomber\obj\Debug\netcoreapp3.1\magicNomber.genruntimeconfig.cache

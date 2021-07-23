@@ -1,0 +1,16 @@
+C:\Users\d77co\source\repos\midExamPractis\1.nationalCourt\bin\Debug\net5.0\1.nationalCourt.exe
+C:\Users\d77co\source\repos\midExamPractis\1.nationalCourt\bin\Debug\net5.0\1.nationalCourt.deps.json
+C:\Users\d77co\source\repos\midExamPractis\1.nationalCourt\bin\Debug\net5.0\1.nationalCourt.runtimeconfig.json
+C:\Users\d77co\source\repos\midExamPractis\1.nationalCourt\bin\Debug\net5.0\1.nationalCourt.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\midExamPractis\1.nationalCourt\bin\Debug\net5.0\1.nationalCourt.dll
+C:\Users\d77co\source\repos\midExamPractis\1.nationalCourt\bin\Debug\net5.0\ref\1.nationalCourt.dll
+C:\Users\d77co\source\repos\midExamPractis\1.nationalCourt\bin\Debug\net5.0\1.nationalCourt.pdb
+C:\Users\d77co\source\repos\midExamPractis\1.nationalCourt\obj\Debug\net5.0\1.nationalCourt.csproj.AssemblyReference.cache
+C:\Users\d77co\source\repos\midExamPractis\1.nationalCourt\obj\Debug\net5.0\1.nationalCourt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d77co\source\repos\midExamPractis\1.nationalCourt\obj\Debug\net5.0\1.nationalCourt.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\midExamPractis\1.nationalCourt\obj\Debug\net5.0\1.nationalCourt.AssemblyInfo.cs
+C:\Users\d77co\source\repos\midExamPractis\1.nationalCourt\obj\Debug\net5.0\1.nationalCourt.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\midExamPractis\1.nationalCourt\obj\Debug\net5.0\1.nationalCourt.dll
+C:\Users\d77co\source\repos\midExamPractis\1.nationalCourt\obj\Debug\net5.0\ref\1.nationalCourt.dll
+C:\Users\d77co\source\repos\midExamPractis\1.nationalCourt\obj\Debug\net5.0\1.nationalCourt.pdb
+C:\Users\d77co\source\repos\midExamPractis\1.nationalCourt\obj\Debug\net5.0\1.nationalCourt.genruntimeconfig.cache

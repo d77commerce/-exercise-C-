@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4J5iCg8mZiZJB1xIIhGKrE/5BbuS0umqiXBWaOxnJSTpxtiHgJHvZHq7mUz0ACToEc91xn3qlTVEhdnNPjQtZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\d77co\\source\\repos\\listLab2\\listLab2\\listLab2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\d77co\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

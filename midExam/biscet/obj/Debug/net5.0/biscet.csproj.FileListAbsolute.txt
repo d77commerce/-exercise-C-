@@ -1,0 +1,16 @@
+C:\Users\d77co\source\repos\midExam\biscet\bin\Debug\net5.0\biscet.exe
+C:\Users\d77co\source\repos\midExam\biscet\bin\Debug\net5.0\biscet.deps.json
+C:\Users\d77co\source\repos\midExam\biscet\bin\Debug\net5.0\biscet.runtimeconfig.json
+C:\Users\d77co\source\repos\midExam\biscet\bin\Debug\net5.0\biscet.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\midExam\biscet\bin\Debug\net5.0\biscet.dll
+C:\Users\d77co\source\repos\midExam\biscet\bin\Debug\net5.0\ref\biscet.dll
+C:\Users\d77co\source\repos\midExam\biscet\bin\Debug\net5.0\biscet.pdb
+C:\Users\d77co\source\repos\midExam\biscet\obj\Debug\net5.0\biscet.csproj.AssemblyReference.cache
+C:\Users\d77co\source\repos\midExam\biscet\obj\Debug\net5.0\biscet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d77co\source\repos\midExam\biscet\obj\Debug\net5.0\biscet.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\midExam\biscet\obj\Debug\net5.0\biscet.AssemblyInfo.cs
+C:\Users\d77co\source\repos\midExam\biscet\obj\Debug\net5.0\biscet.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\midExam\biscet\obj\Debug\net5.0\biscet.dll
+C:\Users\d77co\source\repos\midExam\biscet\obj\Debug\net5.0\ref\biscet.dll
+C:\Users\d77co\source\repos\midExam\biscet\obj\Debug\net5.0\biscet.pdb
+C:\Users\d77co\source\repos\midExam\biscet\obj\Debug\net5.0\biscet.genruntimeconfig.cache

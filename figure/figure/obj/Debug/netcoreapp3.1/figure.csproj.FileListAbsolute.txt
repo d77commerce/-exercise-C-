@@ -1,0 +1,13 @@
+C:\Users\d77co\source\repos\figure\figure\bin\Debug\netcoreapp3.1\figure.exe
+C:\Users\d77co\source\repos\figure\figure\bin\Debug\netcoreapp3.1\figure.deps.json
+C:\Users\d77co\source\repos\figure\figure\bin\Debug\netcoreapp3.1\figure.runtimeconfig.json
+C:\Users\d77co\source\repos\figure\figure\bin\Debug\netcoreapp3.1\figure.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\figure\figure\bin\Debug\netcoreapp3.1\figure.dll
+C:\Users\d77co\source\repos\figure\figure\bin\Debug\netcoreapp3.1\figure.pdb
+C:\Users\d77co\source\repos\figure\figure\obj\Debug\netcoreapp3.1\figure.csprojAssemblyReference.cache
+C:\Users\d77co\source\repos\figure\figure\obj\Debug\netcoreapp3.1\figure.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\figure\figure\obj\Debug\netcoreapp3.1\figure.AssemblyInfo.cs
+C:\Users\d77co\source\repos\figure\figure\obj\Debug\netcoreapp3.1\figure.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\figure\figure\obj\Debug\netcoreapp3.1\figure.dll
+C:\Users\d77co\source\repos\figure\figure\obj\Debug\netcoreapp3.1\figure.pdb
+C:\Users\d77co\source\repos\figure\figure\obj\Debug\netcoreapp3.1\figure.genruntimeconfig.cache

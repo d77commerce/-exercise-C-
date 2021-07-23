@@ -1,0 +1,16 @@
+C:\Users\d77co\source\repos\04Largest3Numbers\02AMinerTask\bin\Debug\net5.0\02AMinerTask.exe
+C:\Users\d77co\source\repos\04Largest3Numbers\02AMinerTask\bin\Debug\net5.0\02AMinerTask.deps.json
+C:\Users\d77co\source\repos\04Largest3Numbers\02AMinerTask\bin\Debug\net5.0\02AMinerTask.runtimeconfig.json
+C:\Users\d77co\source\repos\04Largest3Numbers\02AMinerTask\bin\Debug\net5.0\02AMinerTask.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\04Largest3Numbers\02AMinerTask\bin\Debug\net5.0\02AMinerTask.dll
+C:\Users\d77co\source\repos\04Largest3Numbers\02AMinerTask\bin\Debug\net5.0\ref\02AMinerTask.dll
+C:\Users\d77co\source\repos\04Largest3Numbers\02AMinerTask\bin\Debug\net5.0\02AMinerTask.pdb
+C:\Users\d77co\source\repos\04Largest3Numbers\02AMinerTask\obj\Debug\net5.0\02AMinerTask.csproj.AssemblyReference.cache
+C:\Users\d77co\source\repos\04Largest3Numbers\02AMinerTask\obj\Debug\net5.0\02AMinerTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d77co\source\repos\04Largest3Numbers\02AMinerTask\obj\Debug\net5.0\02AMinerTask.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\04Largest3Numbers\02AMinerTask\obj\Debug\net5.0\02AMinerTask.AssemblyInfo.cs
+C:\Users\d77co\source\repos\04Largest3Numbers\02AMinerTask\obj\Debug\net5.0\02AMinerTask.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\04Largest3Numbers\02AMinerTask\obj\Debug\net5.0\02AMinerTask.dll
+C:\Users\d77co\source\repos\04Largest3Numbers\02AMinerTask\obj\Debug\net5.0\ref\02AMinerTask.dll
+C:\Users\d77co\source\repos\04Largest3Numbers\02AMinerTask\obj\Debug\net5.0\02AMinerTask.pdb
+C:\Users\d77co\source\repos\04Largest3Numbers\02AMinerTask\obj\Debug\net5.0\02AMinerTask.genruntimeconfig.cache

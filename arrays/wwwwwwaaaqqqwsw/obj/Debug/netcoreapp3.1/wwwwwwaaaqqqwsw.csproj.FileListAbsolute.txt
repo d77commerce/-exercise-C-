@@ -1,0 +1,13 @@
+C:\Users\d77co\source\repos\arrays\wwwwwwaaaqqqwsw\bin\Debug\netcoreapp3.1\wwwwwwaaaqqqwsw.exe
+C:\Users\d77co\source\repos\arrays\wwwwwwaaaqqqwsw\bin\Debug\netcoreapp3.1\wwwwwwaaaqqqwsw.deps.json
+C:\Users\d77co\source\repos\arrays\wwwwwwaaaqqqwsw\bin\Debug\netcoreapp3.1\wwwwwwaaaqqqwsw.runtimeconfig.json
+C:\Users\d77co\source\repos\arrays\wwwwwwaaaqqqwsw\bin\Debug\netcoreapp3.1\wwwwwwaaaqqqwsw.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\arrays\wwwwwwaaaqqqwsw\bin\Debug\netcoreapp3.1\wwwwwwaaaqqqwsw.dll
+C:\Users\d77co\source\repos\arrays\wwwwwwaaaqqqwsw\bin\Debug\netcoreapp3.1\wwwwwwaaaqqqwsw.pdb
+C:\Users\d77co\source\repos\arrays\wwwwwwaaaqqqwsw\obj\Debug\netcoreapp3.1\wwwwwwaaaqqqwsw.csprojAssemblyReference.cache
+C:\Users\d77co\source\repos\arrays\wwwwwwaaaqqqwsw\obj\Debug\netcoreapp3.1\wwwwwwaaaqqqwsw.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\arrays\wwwwwwaaaqqqwsw\obj\Debug\netcoreapp3.1\wwwwwwaaaqqqwsw.AssemblyInfo.cs
+C:\Users\d77co\source\repos\arrays\wwwwwwaaaqqqwsw\obj\Debug\netcoreapp3.1\wwwwwwaaaqqqwsw.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\arrays\wwwwwwaaaqqqwsw\obj\Debug\netcoreapp3.1\wwwwwwaaaqqqwsw.dll
+C:\Users\d77co\source\repos\arrays\wwwwwwaaaqqqwsw\obj\Debug\netcoreapp3.1\wwwwwwaaaqqqwsw.pdb
+C:\Users\d77co\source\repos\arrays\wwwwwwaaaqqqwsw\obj\Debug\netcoreapp3.1\wwwwwwaaaqqqwsw.genruntimeconfig.cache

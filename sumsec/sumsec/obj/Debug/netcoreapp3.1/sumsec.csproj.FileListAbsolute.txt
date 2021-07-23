@@ -1,0 +1,13 @@
+C:\Users\d77co\source\repos\sumsec\sumsec\bin\Debug\netcoreapp3.1\sumsec.exe
+C:\Users\d77co\source\repos\sumsec\sumsec\bin\Debug\netcoreapp3.1\sumsec.deps.json
+C:\Users\d77co\source\repos\sumsec\sumsec\bin\Debug\netcoreapp3.1\sumsec.runtimeconfig.json
+C:\Users\d77co\source\repos\sumsec\sumsec\bin\Debug\netcoreapp3.1\sumsec.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\sumsec\sumsec\bin\Debug\netcoreapp3.1\sumsec.dll
+C:\Users\d77co\source\repos\sumsec\sumsec\bin\Debug\netcoreapp3.1\sumsec.pdb
+C:\Users\d77co\source\repos\sumsec\sumsec\obj\Debug\netcoreapp3.1\sumsec.csprojAssemblyReference.cache
+C:\Users\d77co\source\repos\sumsec\sumsec\obj\Debug\netcoreapp3.1\sumsec.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\sumsec\sumsec\obj\Debug\netcoreapp3.1\sumsec.AssemblyInfo.cs
+C:\Users\d77co\source\repos\sumsec\sumsec\obj\Debug\netcoreapp3.1\sumsec.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\sumsec\sumsec\obj\Debug\netcoreapp3.1\sumsec.dll
+C:\Users\d77co\source\repos\sumsec\sumsec\obj\Debug\netcoreapp3.1\sumsec.pdb
+C:\Users\d77co\source\repos\sumsec\sumsec\obj\Debug\netcoreapp3.1\sumsec.genruntimeconfig.cache

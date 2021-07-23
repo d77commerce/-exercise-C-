@@ -1,0 +1,16 @@
+C:\Users\d77co\source\repos\dictonary\0Word Synonyms\bin\Debug\net5.0\0Word Synonyms.exe
+C:\Users\d77co\source\repos\dictonary\0Word Synonyms\bin\Debug\net5.0\0Word Synonyms.deps.json
+C:\Users\d77co\source\repos\dictonary\0Word Synonyms\bin\Debug\net5.0\0Word Synonyms.runtimeconfig.json
+C:\Users\d77co\source\repos\dictonary\0Word Synonyms\bin\Debug\net5.0\0Word Synonyms.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\dictonary\0Word Synonyms\bin\Debug\net5.0\0Word Synonyms.dll
+C:\Users\d77co\source\repos\dictonary\0Word Synonyms\bin\Debug\net5.0\ref\0Word Synonyms.dll
+C:\Users\d77co\source\repos\dictonary\0Word Synonyms\bin\Debug\net5.0\0Word Synonyms.pdb
+C:\Users\d77co\source\repos\dictonary\0Word Synonyms\obj\Debug\net5.0\0Word Synonyms.csproj.AssemblyReference.cache
+C:\Users\d77co\source\repos\dictonary\0Word Synonyms\obj\Debug\net5.0\0Word Synonyms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d77co\source\repos\dictonary\0Word Synonyms\obj\Debug\net5.0\0Word Synonyms.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\dictonary\0Word Synonyms\obj\Debug\net5.0\0Word Synonyms.AssemblyInfo.cs
+C:\Users\d77co\source\repos\dictonary\0Word Synonyms\obj\Debug\net5.0\0Word Synonyms.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\dictonary\0Word Synonyms\obj\Debug\net5.0\0Word Synonyms.dll
+C:\Users\d77co\source\repos\dictonary\0Word Synonyms\obj\Debug\net5.0\ref\0Word Synonyms.dll
+C:\Users\d77co\source\repos\dictonary\0Word Synonyms\obj\Debug\net5.0\0Word Synonyms.pdb
+C:\Users\d77co\source\repos\dictonary\0Word Synonyms\obj\Debug\net5.0\0Word Synonyms.genruntimeconfig.cache
