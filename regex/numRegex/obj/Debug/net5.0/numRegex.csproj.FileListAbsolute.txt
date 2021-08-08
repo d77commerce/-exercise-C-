@@ -1,0 +1,16 @@
+C:\Users\d77co\source\repos\regex\numRegex\bin\Debug\net5.0\numRegex.exe
+C:\Users\d77co\source\repos\regex\numRegex\bin\Debug\net5.0\numRegex.deps.json
+C:\Users\d77co\source\repos\regex\numRegex\bin\Debug\net5.0\numRegex.runtimeconfig.json
+C:\Users\d77co\source\repos\regex\numRegex\bin\Debug\net5.0\numRegex.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\regex\numRegex\bin\Debug\net5.0\numRegex.dll
+C:\Users\d77co\source\repos\regex\numRegex\bin\Debug\net5.0\ref\numRegex.dll
+C:\Users\d77co\source\repos\regex\numRegex\bin\Debug\net5.0\numRegex.pdb
+C:\Users\d77co\source\repos\regex\numRegex\obj\Debug\net5.0\numRegex.csproj.AssemblyReference.cache
+C:\Users\d77co\source\repos\regex\numRegex\obj\Debug\net5.0\numRegex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d77co\source\repos\regex\numRegex\obj\Debug\net5.0\numRegex.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\regex\numRegex\obj\Debug\net5.0\numRegex.AssemblyInfo.cs
+C:\Users\d77co\source\repos\regex\numRegex\obj\Debug\net5.0\numRegex.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\regex\numRegex\obj\Debug\net5.0\numRegex.dll
+C:\Users\d77co\source\repos\regex\numRegex\obj\Debug\net5.0\ref\numRegex.dll
+C:\Users\d77co\source\repos\regex\numRegex\obj\Debug\net5.0\numRegex.pdb
+C:\Users\d77co\source\repos\regex\numRegex\obj\Debug\net5.0\numRegex.genruntimeconfig.cache

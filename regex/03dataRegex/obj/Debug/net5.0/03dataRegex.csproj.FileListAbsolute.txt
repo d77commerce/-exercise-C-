@@ -1,0 +1,16 @@
+C:\Users\d77co\source\repos\regex\03dataRegex\bin\Debug\net5.0\03dataRegex.exe
+C:\Users\d77co\source\repos\regex\03dataRegex\bin\Debug\net5.0\03dataRegex.deps.json
+C:\Users\d77co\source\repos\regex\03dataRegex\bin\Debug\net5.0\03dataRegex.runtimeconfig.json
+C:\Users\d77co\source\repos\regex\03dataRegex\bin\Debug\net5.0\03dataRegex.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\regex\03dataRegex\bin\Debug\net5.0\03dataRegex.dll
+C:\Users\d77co\source\repos\regex\03dataRegex\bin\Debug\net5.0\ref\03dataRegex.dll
+C:\Users\d77co\source\repos\regex\03dataRegex\bin\Debug\net5.0\03dataRegex.pdb
+C:\Users\d77co\source\repos\regex\03dataRegex\obj\Debug\net5.0\03dataRegex.csproj.AssemblyReference.cache
+C:\Users\d77co\source\repos\regex\03dataRegex\obj\Debug\net5.0\03dataRegex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d77co\source\repos\regex\03dataRegex\obj\Debug\net5.0\03dataRegex.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\regex\03dataRegex\obj\Debug\net5.0\03dataRegex.AssemblyInfo.cs
+C:\Users\d77co\source\repos\regex\03dataRegex\obj\Debug\net5.0\03dataRegex.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\regex\03dataRegex\obj\Debug\net5.0\03dataRegex.dll
+C:\Users\d77co\source\repos\regex\03dataRegex\obj\Debug\net5.0\ref\03dataRegex.dll
+C:\Users\d77co\source\repos\regex\03dataRegex\obj\Debug\net5.0\03dataRegex.pdb
+C:\Users\d77co\source\repos\regex\03dataRegex\obj\Debug\net5.0\03dataRegex.genruntimeconfig.cache

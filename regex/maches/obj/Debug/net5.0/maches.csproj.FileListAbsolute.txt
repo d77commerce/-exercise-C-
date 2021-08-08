@@ -1,0 +1,16 @@
+C:\Users\d77co\source\repos\regex\maches\obj\Debug\net5.0\maches.csproj.AssemblyReference.cache
+C:\Users\d77co\source\repos\regex\maches\obj\Debug\net5.0\maches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d77co\source\repos\regex\maches\obj\Debug\net5.0\maches.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\regex\maches\obj\Debug\net5.0\maches.AssemblyInfo.cs
+C:\Users\d77co\source\repos\regex\maches\obj\Debug\net5.0\maches.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\regex\maches\bin\Debug\net5.0\maches.exe
+C:\Users\d77co\source\repos\regex\maches\bin\Debug\net5.0\maches.deps.json
+C:\Users\d77co\source\repos\regex\maches\bin\Debug\net5.0\maches.runtimeconfig.json
+C:\Users\d77co\source\repos\regex\maches\bin\Debug\net5.0\maches.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\regex\maches\bin\Debug\net5.0\maches.dll
+C:\Users\d77co\source\repos\regex\maches\bin\Debug\net5.0\ref\maches.dll
+C:\Users\d77co\source\repos\regex\maches\bin\Debug\net5.0\maches.pdb
+C:\Users\d77co\source\repos\regex\maches\obj\Debug\net5.0\maches.dll
+C:\Users\d77co\source\repos\regex\maches\obj\Debug\net5.0\ref\maches.dll
+C:\Users\d77co\source\repos\regex\maches\obj\Debug\net5.0\maches.pdb
+C:\Users\d77co\source\repos\regex\maches\obj\Debug\net5.0\maches.genruntimeconfig.cache
